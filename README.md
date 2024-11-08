@@ -40,8 +40,8 @@ Welcome to my GitHub! I'm a passionate **developer**, **tech enthusiast**, and *
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Jay's LinkedIn](https://linkedin.com/in/your-linkedin)
+- **LinkedIn:** [Jay's LinkedIn](https://linkedin.com/in/irenicj)
 - **Instagram:** [@wealdpath](https://www.instagram.com/wealdpath) – for my outdoor photography
-- **Personal Blog:** [IrenicJ](https://your-blog-link.com) – Exploring tech, adventures, and more
+- **Personal Blog:** [IrenicJ](https://irenicj.dev) – Exploring tech, adventures, and more
 
 Thanks for stopping by! Feel free to explore, contribute, or just say hi. 😊
