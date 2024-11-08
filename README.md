@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate **developer**, **tech enthusiast**, and *
 
 ## 📈 GitHub Stats
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pate0304&show_icons=true&theme=transparent)
 
 ---
 
