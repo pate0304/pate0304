@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate **developer**, **tech enthusiast**, and *
 
 - 🔭 I’m currently working on **Locsy** – a social tool app for sharing and exploring cool spots worldwide
 - 🌱 Learning and experimenting with **AI-powered solutions** for real-world problems
-- 📷 Outdoors enthusiast and photographer, capturing the serene beauty of nature (Check out my IG [@wealdpath](https://www.instagram.com/wealdpath))
 - 💬 Let’s talk about **AI, app development, and exploring hidden trails**!
 
 ---
